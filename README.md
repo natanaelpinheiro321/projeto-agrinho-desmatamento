@@ -42,20 +42,6 @@ Como Rodar o Projeto:
 * Clone ou faça o download do repositório.
 * Abra o arquivo index.html em um navegador de sua escolha.
 
-# Projeto de Exemplo
-
-Este é um exemplo de como adicionar uma imagem no README do GitHub.
-
-## Imagem Local:
-![Cataratas do Iguaçu](images/cataratas-do-iguacu.jpg)
-
-## Imagem Externa:
-![Imagem Externa](https://exemplo.com/imagem.jpg)
-
-## Imagem com Redimensionamento:
-<img src="images/cataratas-do-iguacu.jpg" alt="Cataratas do Iguaçu" width="600"/>
-
-
 #### Contribuições
 Se você deseja contribuir para este projeto, por favor, siga as etapas abaixo:
 * Faça um fork deste repositório.
